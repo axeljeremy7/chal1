@@ -27,8 +27,10 @@ public class Stepmain {
 		
 		//http.sendPosStep2t();
 		//reverseWord(stringtoreverse);
-		//http.sendPosStep3();
+		
 		//http.addHaystackAndNeedle(input);
+		//http.sendPosStep3();
+		
 		
 
 
